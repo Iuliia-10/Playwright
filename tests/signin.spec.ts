@@ -39,11 +39,5 @@ test.describe('Sign in Form' , () => {
         await expect(page).toHaveURL('https://qauto.forstudy.space/panel/garage');
         await expect(page).toHaveTitle('Hillel Qauto');
     });
-
-    
-    
-    
-
-
-
+ 
 })
